@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22411" started-at="2018-12-17T06:32:37Z" finished-at="2018-12-17T06:33:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22411" started-at="2018-12-17T06:32:37Z" finished-at="2018-12-17T06:33:00Z">
+      <class name="com.selenium2019.HandleMultipleWindow">
+        <test-method status="PASS" signature="mulwin()[pri:0, instance:com.selenium2019.HandleMultipleWindow@39c0f4a]" name="mulwin" duration-ms="22352" started-at="2018-12-17T12:02:37Z" finished-at="2018-12-17T12:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulwin -->
+      </class> <!-- com.selenium2019.HandleMultipleWindow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
